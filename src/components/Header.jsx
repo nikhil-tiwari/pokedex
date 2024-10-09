@@ -24,7 +24,7 @@ const Header = () => {
         </a>
         <a
           className="cursor-pointer hover:text-neutral-50 transition-all duration-300"
-          href="https://github.com/nikhil-tiwari"
+          href="https://github.com/nikhil-tiwari/pokedex"
           target="_blank"
           rel="noopener noreferrer"
         >
